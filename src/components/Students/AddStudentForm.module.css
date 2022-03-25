@@ -1,0 +1,18 @@
+.form{
+    width: 50%;
+    display: grid;
+    margin-top: 2rem;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.form label{
+    font-weight: 600;
+    padding-top: 1rem;
+}
+
+.form input{
+    line-height: 1.5rem;
+    border-radius: 5px;
+}
